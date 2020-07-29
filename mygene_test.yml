@@ -4,8 +4,8 @@ info:
     email: paulgaudin314@gmail.com
     name: Paul Gaudin
     x-id: https://github.com/polyg314
-    x-role: tester
-  description: TEST FOR SLACK INTEGRATION
+    x-role: responsible developer
+  description: TEST FOR SLACK
   termsOfService: http://mygene.info/terms/
   title: TEST MyGene.info API
   version: '3.0'
